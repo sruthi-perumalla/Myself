@@ -1,4 +1,6 @@
 # Myself
-you can know my education details,technical skills and more....
-Just Click on one of the html Page
+Edit  your details and save them.....
+Run the html page after changes
+It creates your own resume
+
 
